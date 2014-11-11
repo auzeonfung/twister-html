@@ -1,12 +1,31 @@
-twister-html
+Twister Web Ui
+===========
+
+这是一个為 [Twister](http://twister.net.co) [(github)](https://github.com/miguelfreitas/twister-core). 設計的網頁UI。
+請在~/.twister/html Clone這個repo：
+
+    git clone https://github.com/miguelfreitas/twister-html.git ~/.twister/html
+
+如果你是**Mac OS X**的用戶請使用
+
+    git clone https://github.com/miguelfreitas/twister-html.git ${HOME}/Library/Application\Support/Twister/html
+
+貢獻代碼
+------------
+
+你可以自由修改這個repo的程式而無需通知我，希望你能夠保留我的版權信息 :)
+
+
+
+twister-html(OX Edition)
 ============
 
 HTML interface for [Twister](http://twister.net.co) [(github)](https://github.com/miguelfreitas/twister-core).
-To use it, clone this repo under ~/.twister/html like this:
+To clone this repo under ~/.twister/html do like this:
 
     git clone https://github.com/miguelfreitas/twister-html.git ~/.twister/html
     
-If you'r on **Mac OS X** - clone to ${HOME}/Library/Application\ Support/Twister/html instead of ~/.twister/html
+If you'r on **Mac OS X** - clone to ${HOME}/Library/Application\Support/Twister/html instead of ~/.twister/html
 
 Contribute
 ----------
